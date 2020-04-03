@@ -7,7 +7,9 @@ Generates Coronavirus(COVID-19) plots based on state
 	- Total deaths
 	- Delta positively infected by day
 	- Delta deaths by day
-	
+
+- Example of how to run:
+	- python stats_plot.py WA
 
 - Requirements:
 	- Python 3
