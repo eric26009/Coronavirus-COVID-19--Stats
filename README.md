@@ -14,3 +14,6 @@ Generates Coronavirus(COVID-19) plots based on state
 - Requirements:
 	- Python 3
 	- matplotlib, seaborn, requests, numpy, datetime, pandas, sys
+
+- API credit to [API source](https://coronavirusapi.com/)
+
