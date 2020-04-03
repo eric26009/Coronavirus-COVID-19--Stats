@@ -17,3 +17,4 @@ Generates Coronavirus(COVID-19) plots based on state
 
 - API credit to [API source](https://coronavirusapi.com/)
 
+![example for WA state](/images/combo.png)
